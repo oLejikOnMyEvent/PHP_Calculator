@@ -1,0 +1,24 @@
+.calc{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    margin-right: 10px;
+}
+
+.calculate{
+    margin-right: 10px;
+}
+
+.result{
+margin-right: 10px;
+}
+
+.error_message{
+    margin-right: 10px;
+}
+
+.clear{
+    margin-right: 10px;
+}
